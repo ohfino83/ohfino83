@@ -2,7 +2,7 @@
 
 🔧 I'm experienced in working with a wide range of microcontrollers including various models of Arduino, ESP32, and Raspberry Pi Pico, and I’m currently expanding my skills in STM32 and Embedded C for more advanced, real-time applications. <br/>
 
-🌍 In 2025, I was selected to attend the London International Youth Science Movement (LIYSM), an experience that deepened my passion for global innovation and research. <br/>
+🌍 In 2025, I was selected to attend the London International Youth Science Movement (LIYSF), an experience that deepened my passion for global innovation and research, which as been blogged and documented on my Youtube Channek. <br/>
 
 🤝 I love collaborating with students and professionals from other engineering disciplines, as it constantly broadens my perspective and sharpens my approach to problem-solving. <br/>
 
