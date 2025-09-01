@@ -1,6 +1,6 @@
 ## Hi!, I’m Owen Hernandez Fino, a 17-year-old Mechatronics Engineering student from St John Paul College II. I’ve studied Mechatronics and C++ programming for the past two years as part of my senior college program, and was honored as the Top Mechatronics Student in Semester One of my course. <br/>
 
-🔧 I'm experienced in working with a wide range of microcontrollers including various models of Arduino, ESP32, and Raspberry Pi Pico, and I’m currently expanding my skills in STM32 and Embedded C for more advanced, real-time applications. <br/>
+🔧 I'm experienced in working with a wide range of microcontrollers including various models of Arduino, ESP32, and Raspberry Pi Pico, in addition to building my own. I’m currently expanding my skills in STM32 and Embedded C for more advanced, real-time applications. <br/>
 
 🌍 In 2025, I was selected to attend the London International Youth Science Forum 2025 (LIYSF), an experience that deepened my passion for global innovation and research. <br/>
 
